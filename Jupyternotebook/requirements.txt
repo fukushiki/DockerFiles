@@ -6,3 +6,4 @@ visdom
 streamlit
 sklearn
 tqdm
+ipykernel
