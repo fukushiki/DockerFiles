@@ -1,0 +1,30 @@
+# ■ここから拡張
+
+# 日本語パック
+sudo code --install-extension MS-CEINTL.vscode-language-pack-ja --force
+
+# コーディング支援
+sudo code --install-extension visualstudioexptteam.vscodeintellicode --force
+
+# markdown
+sudo code --install-extension yzane.markdown-pdf --force
+sudo code --install-extension davidanson.vscode-markdownlint --force
+sudo code --install-extension alanwalk.markdown-toc --force
+sudo code --install-extension legendmohe.markdown-index --force
+sudo code --install-extension mushan.vscode-paste-image --force
+
+sudo code --install-extension esbenp.prettier-vscode --force
+
+sudo code --install-extension donjayamanne.githistory --force
+
+sudo code --install-extension alefragnani.bookmarks --force
+
+sudo code --install-extension jebbs.plantuml --force
+
+sudo code --install-extension christian-kohler.path-intellisense --force
+
+sudo code --install-extension codezombiech.gitignore --force
+sudo code --install-extension fabiospampinato.vscode-todo-plus --force
+sudo code --install-extension ibm.output-colorizer --force
+sudo code --install-extension ms-vscode-remote.remote-containers --force
+sudo code --install-extension ms-azuretools.vscode-docker --force
