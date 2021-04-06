@@ -7,3 +7,6 @@ streamlit
 sklearn
 tqdm
 ipykernel
+jupyterlab_code_formatter
+lckr-jupyterlab-variableinspector
+jupyterlab-kite>=2.0.2
